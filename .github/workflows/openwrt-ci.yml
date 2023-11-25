@@ -14,8 +14,8 @@ on:
   release:
     types: [published]
     
-permissions:
-  contents: read
+#permissions:
+  #contents: read
 
 jobs:
 
